@@ -1,0 +1,27 @@
+﻿{
+    "gateway": {
+        "stype": 0,
+        "host": "127.0.0.1",
+        "port": 6080
+    },
+    "auth": {
+        "stype": 1,
+        "host": "127.0.0.1",
+        "port": 6091
+    },
+    "hall": {
+        "stype": 2,
+        "host": "127.0.0.1",
+        "port": 6092
+    },
+    "talkroom": {
+        "stype": 3,
+        "host": "127.0.0.1",
+        "port": 6093
+    },
+    "game": {
+        "stype": 4,
+        "host": "127.0.0.1",
+        "port": 6094
+    }
+}

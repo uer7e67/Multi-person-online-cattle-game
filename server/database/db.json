@@ -1,0 +1,9 @@
+{
+    "center_database": {
+        "host": "127.0.0.1",
+        "port": 3306,
+        "db_name": "cc_game1.0",
+        "uname": "root",
+        "upwd": "mysql"
+    }
+}
